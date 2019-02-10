@@ -1,1 +1,4 @@
-[![Build Status](https://travis-ci.org/evgeniychernyshev/remaining-distance.svg?branch=master)](https://travis-ci.org/evgeniychernyshev/remaining-distance)
+# Расчет оставшегося пути
+Дано:
+* Расход л/100 км
+* Количество топлива в бензобаке
